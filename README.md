@@ -1,5 +1,7 @@
 # Portfolio — Housseïne TCHATAKOURA
 
+link:  https://tchatakourah-hash.github.io/portfolio/
+
 Refonte complète du portfolio personnel : thème sombre premium, structure
 nettoyée, bugs corrigés, contenu clarifié.
 
